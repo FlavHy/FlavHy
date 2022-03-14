@@ -10,6 +10,8 @@
 - Continuously remain well-informed of technological advances, and investigate superior methods for meeting technical goals. 
 - Strong engaging professional, known for being creative, open minded, enthusiastic, organized, hands-on and eager to learn more.
 
+You can contact me through LinkedIn https://www.linkedin.com/in/flavio-hyseni-5b80b9119/
+
 <!---
 FlavHy/FlavHy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
